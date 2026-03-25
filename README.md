@@ -72,5 +72,5 @@ Analysis results can be saved as report files with timestamps. These files can b
 
 ## Version
 
-CXT - C Text Analyzer v1.1.0
+CXT - C Text Analyzer v1.1.0  
 Author: Nahum Naranjo
